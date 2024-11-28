@@ -77,6 +77,13 @@ Synkronoin masterilta tuon port chekkerin minion koneille:
 
 
 
+Ajoin komennon  sudo salt '*' state.apply  :
+
+![image](https://github.com/user-attachments/assets/dba5cda6-7753-451e-ba14-9f2875e8a406)
+
+
+
+
 
 
 
