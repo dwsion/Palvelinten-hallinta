@@ -5,7 +5,9 @@
 
 Omana moduulina suunnittelin tekeväni jonkinlaisen nes emulaattorin asennuksen, mutta pienen testailun jälkeen mieleen tuli toinen idea.
 
-Ajatuksena on tehdä moduuli, joka testaa minionin portteja ja avaa/sulkee ne tarvittaessa.
+Ajatuksena on tehdä moduuli, joka testaa minionin portteja ja avaa/sulkee ne tarvittaessa. 
+
+vagra
 
 
 
